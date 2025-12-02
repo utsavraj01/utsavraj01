@@ -83,13 +83,13 @@ export class Developer {
   <img src="https://nirzak-streak-stats.vercel.app?user=utsavraj01&theme=tokyonight&hide_border=true" alt="" width="48%" height="170" />
   <img src="https://github-readme-stats.vercel.app/api?username=utsavraj01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" height="170" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-ist&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" width="48%" /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-ist&theme=react-dark&hide_border=true&area=true" width="90%" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsavraj01&theme=react-dark&hide_border=true&area=true" width="90%" alt="Contribution Graph">
 
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     </div>
   </div>
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-ist&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph"> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsavraj01&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph"> -->
   
   <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/cosmic-contribution-art.png">
@@ -97,7 +97,7 @@ export class Developer {
     <img alt="Abhijeet's Cosmic Contribution Art" src="dist/cosmic-contribution-art.png" width="95%" style="margin-top: 20px;">
   </picture> -->
 </div>
- <!-- <a href="https://nirzak-streak-stats.vercel.app/?user=Abhijeet-ist&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3&card_height=235"> -->
+ <!-- <a href="https://nirzak-streak-stats.vercel.app/?user=utsavraj01&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3&card_height=235"> -->
   
 <br>
 
@@ -403,4 +403,5 @@ export class Developer {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
+
 
